@@ -5,11 +5,20 @@ http://185.39.50.222:8001/2861/xR4VbCnLKjJp/304161
 #EXTINF:-1,PE | Liga 1 Max
 http://45.189.117.202:48000/play/a01y/index.m3u8
 
+#EXTINF:-1,PE | MOVISTAR DEPORTES
+http://185.39.50.222:8001/2861/xR4VbCnLKjJp/1337
+
+#EXTINF: -1,GOL PERu
+http://187.102.210.164:8000/play/a00g/index.m3u8
+
 #EXTINF: -1,b@rbie
 https://cvhdarmcmiyy.sw-cdnstream.com/hls2/01/00719/56sk1p4gd2k5_o/index-v1-a1.m3u8?t=_l0QP__ko2LXYdJEkmEZUgEQdUvH9BJT6hT0xgSFv6c&s=1690034760&e=129600&f=3622885&srv=ZKDUlqNTm1Mq&i=0.0&sp=500&p1=ZKDUlqNTm1Mq&p2=ZKDUlqNTm1Mq
 
-#EXTINF:-1,HD | Space
-http://185.39.50.222:8001/2861/xR4VbCnLKjJp/45
+#EXTINF:-1,Transformers: El despertar de las bestias (2023) DUAL
+http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/321699.mkv
+
+#EXTINF:-1,LAT | SPACE 
+http://185.39.50.222:8001/2861/xR4VbCnLKjJp/239654
 
 #EXTINF:-1,24h | Disney Movies
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/230605
@@ -82,10 +91,6 @@ http://45.169.99.154:58001/play/a02k/index.m3u8
 #EXTINF: -1,CDO PREMIUN
 
 https://v3.playerlatino.live/stream/m3u8/401|user-agent=Lavf/57.71.001
-
-#EXTINF: -1,GOL PERu
-
-http://187.102.210.164:8000/play/a00g/index.m3u8
 
 #EXTINF: -1,GOL TV
 

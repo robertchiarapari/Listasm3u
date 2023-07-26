@@ -14,9 +14,7 @@ tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/76/36/8f76364
 PE | MOVISTAR DEPORTES
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/1337
 
-#EXTINF: -1
-,
-PE | GOL PERU
+#EXTINF: -1,PE | GOL PERU
 http://187.102.210.164:8000/play/a00g/index.m3u8
 
 #EXTINF: -1,b@rbie

@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdzxuEdG6ugwhhtB8pvhVWEW9cuyWjky02w&usqp=CAU",PE | Liga 1
+#EXTINF:-1 
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdzxuEdG6ugwhhtB8pvhVWEW9cuyWjky02w&usqp=CAU",
+PE | Liga 1
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/304161
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png",PE | Liga 1 Max
+#EXTINF:-1 
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png",
+PE | Liga 1 Max
 http://45.189.117.202:48000/play/a01y/index.m3u8
 
-#EXTINF:-1,PE | MOVISTAR DEPORTES
+#EXTINF:-1 
+tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/76/36/8f763642-25ea-74f8-9305-203aee521d55/source/256x256bb.jpg",
+PE | MOVISTAR DEPORTES
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/1337
 
 #EXTINF: -1,GOL PERU

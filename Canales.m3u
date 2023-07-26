@@ -761,12 +761,6 @@ http://181.119.67.75:16123/play/ch24
 #EXTINF: -1,Discovery TLT
 http://181.119.67.75:16123/play/ch26
 
-#EXTINF: -1,El Gourmet
-http://181.119.67.75:16123/play/ch27
-
-#EXTINF: -1,Food Newort
-http://181.119.67.75:16123/play/ch28
-
 #EXTINF: -1,NATGEO
 http://181.119.67.75:16123/play/ch30
 
@@ -811,24 +805,6 @@ http://181.119.67.75:16123/play/a06a
 
 #EXTINF: -1,Tooncast
 http://181.119.67.75:16123/play/a069
-
-
-
-
-
-
-
-
-
-
-
-￼Enter#EXTINF: -1,El Gourmet
-
-http://181.119.67.75:16123/play/ch27
-
-#EXTINF: -1,Food Newort
-
-http://181.119.67.75:16123/play/ch28
 
 #EXTINF: -1,NATGEO
 

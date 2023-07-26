@@ -8,7 +8,7 @@ http://45.189.117.202:48000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrTFMjdnZid59p9MbuKZM6i7CmvNJnDKdq7A&usqp=CAU",PE | MOVISTAR DEPORTES
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/1337
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgFM3V3hXpZ_77-E9LgcPO6kNC9zLqfT9hA&usqp=CAU",GOL PERU
+#EXTINF: -1,GOL PERU
 http://187.102.210.164:8000/play/a00g/index.m3u8
 
 #EXTINF: -1,b@rbie

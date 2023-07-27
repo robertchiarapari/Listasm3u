@@ -5,28 +5,28 @@ http://185.39.50.222:8001/2861/xR4VbCnLKjJp/304161
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/liga1max.png",PE | Liga 1 Max
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/304162
 
-#EXTINF:-1,PE | MOVISTAR DEPORTES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/movistardeportes.png",PE | MOVISTAR DEPORTES
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/1337
 
-#EXTINF: -1,PE | GOL PERU
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/golperu.png",PE | GOL PERU
 http://187.102.210.164:8000/play/a00g/index.m3u8
 
-#EXTINF:-1,Flash (2023)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/pelicula.png",Flash (2023)
 http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/321489.mkv
 
-#EXTINF:-1,Matrix Resurrections (2021)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/pelicula.png",Matrix Resurrections (2021)
 http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/276321.mp4
 
-#EXTINF:-1,Transformers: El despertar de las bestias (2023) DUAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/pelicula.png",Transformers: El despertar de las bestias (2023) DUAL
 http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/321699.mkv
 
-#EXTINF:-1,Spider-Man: No Way Home (2021) EXTENDED VERSION 2022
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/pelicula.png",Spider-Man: No Way Home (2021) EXTENDED VERSION 2022
 http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/298848.mkv
 
-#EXTINF:-1,¡Shazam! La furia de los dioses (2023) OP 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/pelicula.png",¡Shazam! La furia de los dioses (2023) OP 1
 http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/308912.mkv
 
-#EXTINF:-1,Súper Mario Bros. La película (2023)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/pelicula.png",Súper Mario Bros. La película (2023)
 http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/311954.mkv
 
 #EXTINF:-1,LAT | SPACE 

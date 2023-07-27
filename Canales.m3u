@@ -35,6 +35,9 @@ https://m3u-editor.com/serve/televito/856143073.m3u8
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Pluto TV", Naruto
 https://m3u-editor.com/serve/televito/856143161.m3u8
 
+#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Pluto TV", Pluto TV Anime
+https://m3u-editor.com/serve/televito/856143183.m3u8
+
 #EXTINF:-1,LAT | SPACE 
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/239654
 

@@ -407,9 +407,6 @@ http://45.169.99.154:58001/play/a02k/index.m3u8
 #EXTINF: -1,CDO PREMIUN
 https://v3.playerlatino.live/stream/m3u8/401|user-agent=Lavf/57.71.001
 
-#EXTINF: -1,GOL PERu
-http://187.102.210.164:8000/play/a00g/index.m3u8
-
 #EXTINF: -1,GOL TV
 https://v3.playerlatino.live/stream/m3u8/514|user-agent=Lavf/57.71.001
 

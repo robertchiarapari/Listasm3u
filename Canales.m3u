@@ -11,6 +11,9 @@ http://185.39.50.222:8001/2861/xR4VbCnLKjJp/1337
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/golperu.png",PE | GOL PERU
 http://187.102.210.164:8000/play/a00g/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/pelicula.png",Los Caballeros del Zodíaco (2023)
+http://castlempire.site:8080/movie/UserTest5Octubre_00w/p3QcBkFxLzkZ/268395.mkv
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/pelicula.png",Guardianes de la Galaxia: Volumen 3 (2023)
 http://castlempire.site:8080/movie/UserTest2Octubre_00w/bqCs7jw4KQJa/270112.mkv
 

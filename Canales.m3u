@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 xui-id="30223" tvg-id="24 Horas | El CHAVO DEL 8" tvg-name="24 HORAS | 31 MINUTOS" tvg-logo="http://xdplayer.tv:8080/images/7b0bdeb83a0aabd4ea6069b235ef6f4b.png" group-title="CANALES 24/7",24 HORAS | 31 MINUTOS
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR8Ray12kA85-VYgXyqvfW0rV6eD0iLzF4fqVowhOHn-A/ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/liga1.png",PE | Liga 1
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/304161
 

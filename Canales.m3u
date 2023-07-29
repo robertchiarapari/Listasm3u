@@ -558,12 +558,6 @@ http://160.20.165.245:8000/play/a016/index.m3u8
 #EXTINF: -1,Enlace
 http://160.20.165.245:8000/play/a00u/index.m3u8
 
-#EXTINF: -1,Ecuador TV
-http://160.20.165.245:8000/play/a00q/index.m3u8
-
-#EXTINF: -1,FanPop
-http://160.20.165.245:8000/play/a01g/index.m3u8
-
 #EXTINF: -1,FMH Famili
 http://160.20.165.245:8000/play/a01j/index.m3u8
 
@@ -647,9 +641,6 @@ http://181.119.67.75:16123/play/ch13
 
 #EXTINF: -1,Conexion
 http://181.119.67.75:16123/play/ch15
-
-#EXTINF: -1,Fox Sport 2
-http://181.119.67.75:16123/play/ch20
 
 #EXTINF: -1,Discovery Turbo
 http://181.119.67.75:16123/play/ch24

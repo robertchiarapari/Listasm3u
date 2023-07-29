@@ -35,10 +35,10 @@ http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/308912.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/pelicula.png",Súper Mario Bros. La película (2023)
 http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/311954.mkv
 
-#EXTINF:-1,Space | Opcion 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/space.png",Space | Opcion 1
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/239654
 
-#EXTINF:-1,Space | Opcion 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/space.png",Space | Opcion 2
 http://181.119.67.75:16123/play/a066
 
 #EXTINF:-1,24h | Disney Movies

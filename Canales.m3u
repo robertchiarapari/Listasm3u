@@ -414,23 +414,8 @@ http://45.169.99.154:58001/play/a01a/index.m3u8
 #EXTINF: -1,E! Entertanine
 http://45.169.99.154:58001/play/a012/index.m3u8
 
-#EXTINF: -1,Paramout hd
-http://45.169.99.154:58001/play/a00p/index.m3u8
-
-#EXTINF: -1,Sony Chanel HD
-http://45.169.99.154:58001/play/a02l/index.m3u8
-
-#EXTINF: -1,WARNER HD
-http://45.169.99.154:58001/play/a02k/index.m3u8
-
 #EXTINF: -1,CDO PREMIUN
 https://v3.playerlatino.live/stream/m3u8/401|user-agent=Lavf/57.71.001
-
-#EXTINF: -1,GOL TV
-https://v3.playerlatino.live/stream/m3u8/514|user-agent=Lavf/57.71.001
-
-#EXTINF: -1,Directv 
-https://v3.playerlatino.live/stream/m3u8/259|user-agent=Lavf/57.71.001
 
 #EXTINF: -1,TNT Sports 3 ChileHD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -485,18 +470,6 @@ http://138.59.177.34:8000/play/a05i/index.m3u8
 
 #EXTINF: -1,TyC Sport
 http://187.102.210.164:8000/play/a00f/index.m3u8
-
-#EXTINF: -1,HBO
-http://45.189.117.202:48000/play/a01g/index.m3u8
-
-#EXTINF: -1,HBO 2
-http://45.189.117.202:48000/play/a01h/index.m3u8
-
-#EXTINF: -1,HBO Family
-http://138.59.177.34:8000/play/a01p/index.m3u8
-
-#EXTINF: -1,HBO +plus
-http://138.59.177.34:8000/play/a01o/index.m3u8
 
 #EXTINF: -1,HBO Xtreme
 http://138.59.177.34:8000/play/a01q/index.m3u8

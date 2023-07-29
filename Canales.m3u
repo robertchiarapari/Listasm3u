@@ -47,6 +47,15 @@ http://45.189.117.202:48000/play/a025/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/goldenedge.png",Golden Edge
 http://181.119.67.75:16123/play/ch47
 
+#EXTINF:-1 tvg-logo="http://xdplayer.tv:8080/images/c0bd2b2cc6d01405446698abb8cd07d3.jpg" ,24 HORAS | FIESTAMIX 1
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wRy3uuFmYmACNbwmzueF1vN5OLKSOiXM0Rd-5g4lAZR0M/ts
+
+#EXTINF:-1 tvg-logo="http://xdplayer.tv:8080/images/c0bd2b2cc6d01405446698abb8cd07d3.jpg" ,24 HORAS | FIESTAMIX 2
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR7_-jhFa4K1cCmBYQgwvMDmpXODzZb0uf6zmJDSOPSaP/ts
+
+#EXTINF:-1 tvg-logo="http://xdplayer.tv:8080/images/c0bd2b2cc6d01405446698abb8cd07d3.jpg" ,24 HORAS | FIESTAMIX 3
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR_C6Cnw9Xh73Jld8PMv5bQQbjUjNv6zZ_6tdHGiGkcKq/ts
+
 #EXTINF:-1,24h | Disney Movies
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/230605
 

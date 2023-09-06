@@ -68,6 +68,9 @@ http://138.59.177.34:8000/play/a01l/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/comedycentral.png",Comedy Central
 http://138.59.177.34:8000/play/a05p/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/hbo.png",HBO
+http://138.59.177.34:8000/play/a01m/index.m3u8
+
 #EXTINF:-1,24h | Disney Movies
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/230605
 
@@ -183,9 +186,6 @@ http://138.59.177.34:8000/play/a05i/index.m3u8
 
 #EXTINF: -1,TyC Sport
 http://187.102.210.164:8000/play/a00f/index.m3u8
-
-#EXTINF: -1,HBO
-http://45.189.117.202:48000/play/a01g/index.m3u8
 
 #EXTINF: -1,HBO 2
 http://45.189.117.202:48000/play/a01h/index.m3u8

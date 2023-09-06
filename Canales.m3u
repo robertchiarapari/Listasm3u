@@ -71,6 +71,9 @@ http://138.59.177.34:8000/play/a05p/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/hbo.png",HBO
 http://138.59.177.34:8000/play/a01m/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/htv.png",HTV
+http://138.59.177.34:8000/play/a04c/index.m3u8
+
 #EXTINF:-1,24h | Disney Movies
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/230605
 
@@ -379,23 +382,11 @@ http://181.119.67.75:16123/play/ch24
 #EXTINF: -1,TNT Sports 3 ChileHD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF: -1,Pucalpa tv
-http://45.189.117.202:48000/play/a02f/index.m3u8
-
 #EXTINF: -1,NATGEO
 http://181.119.67.75:16123/play/ch30
 
 #EXTINF: -1,CGTN Esp
 http://181.119.67.75:16123/play/ch32
-
-#EXTINF: -1,Glitz
-http://181.119.67.75:16123/play/ch34
-
-#EXTINF: -1,Extra
-http://181.119.67.75:16123/play/ch90
-
-#EXTINF: -1,HTV
-http://181.119.67.75:16123/play/a06b
 
 #EXTINF: -1,TNT Series
 http://181.119.67.75:16123/play/a065

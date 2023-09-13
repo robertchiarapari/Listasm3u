@@ -164,7 +164,7 @@ http://138.59.177.34:8000/play/a073/index.m3u8
 http://138.59.177.34:8000/play/a05i/index.m3u8
 
 #EXTINF: -1,TyC Sport
-http://187.102.210.164:8000/play/a00f/index.m3u8
+http://177.93.52.98:45001/play/a07o?fbclid=IwAR3jMkUugH12tladrgfXykjYAkuIaal7bQGsoKSflykInLN61QaCk_uehsU
 
 #EXTINF: -1,HBO 2
 http://45.189.117.202:48000/play/a01h/index.m3u8

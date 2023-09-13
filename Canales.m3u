@@ -77,6 +77,9 @@ http://138.59.177.34:8000/play/a04c/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/espn.png",ESPN
 http://181.78.8.90:16123/play/ch16
 
+#EXTINF:-1,RCN HD
+http://177.93.52.98:45001/play/a06p?fbclid=IwAR3jMkUugH12tladrgfXykjYAkuIaal7bQGsoKSflykInLN61QaCk_uehsU
+
 #EXTINF:-1,24h | Disney Movies
 http://185.39.50.222:8001/2861/xR4VbCnLKjJp/230605
 

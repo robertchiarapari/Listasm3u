@@ -9,10 +9,10 @@ http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/159941
 http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/159457
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/movistardeportes.png",PE | MOVISTAR DEPORTES
-http://187.102.208.155:8000/play/a06i/index.m3u8
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/3329
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/golperu.png",PE | GOL PERU
-http://187.102.210.164:8000/play/a00g/index.m3u8
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/2689
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/robertchiarapari/Listasm3u/main/logos/pelicula.png",Calabozos y dragones : Honor entre ladrones
 http://208.88.245.85/nuevo/calaydrag.honorentre.ladrones.dual2023.mkv
